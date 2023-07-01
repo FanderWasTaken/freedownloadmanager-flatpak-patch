@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Free Download Manager
+Comment=FDM is a powerful modern download accelerator and organizer
+Icon=org.freedownloadmanager.Manager
+Exec=/var/lib/flatpak/app/org.freedownloadmanager.Manager/current/active/files/extra/opt/freedownloadmanager/fdm
+Actions=
+Categories=FileTransfer;GTK;Network;P2P;
+Keywords=download;manager;free;fdm;
+StartupNotify=true
+StartupWMClass=Free Download Manager
