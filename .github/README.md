@@ -16,7 +16,7 @@ Run `bash <(curl -sSL https://raw.githubusercontent.com/FanderWasTaken/freedownl
 
 ## Browser support
 
-I've only tested this patch with Firefox. If you wish to make it work with a browser of your choosing, please open an issue and we'll figure it out!
+I've only tested this patch with Firefox and Gnome. If you wish to make it work with a browser or desktop environment of your choosing, please open an issue and we'll figure it out!
 
 ## Alternative
 
